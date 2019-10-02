@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Holiday In Sukabumi</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="lokasi">lokasi : </string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jam_buka">Jam Buka</string>
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="fasilitas">Fasilitas</string>
+</resources>
